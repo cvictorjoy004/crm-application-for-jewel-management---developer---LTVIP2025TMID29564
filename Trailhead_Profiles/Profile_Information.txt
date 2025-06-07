@@ -1,1 +1,39 @@
+STUDENT ID        -  SBAP0029564
+STUDENT NAME      -  CHOKKA VICTORJOY
+GROUP             -  BCA(Data Science)
+LEARNING TRACK    -  Salesforce - Developer
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/rml3wl8dpbdg2lzheg
 
+PROJECT NAME      -  crm application for jewel management - (developer)
+ORG USERNAME      -  cvictorjoy004319@agentforce.com
+PASSWORD          -  Gayatri@123
+
+STUDENT ID        -  SBAP0029487
+STUDENT NAME      -  DAMATHOTI VANI
+GROUP             -  BCA(General)
+LEARNING TRACK    -  Salesforce - Developer
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/mg51fty98ht30j8vc3
+
+PROJECT NAME      -  crm application for jewel management - (developer)
+ORG USERNAME      -  damathotivanivani947@agentforce.com
+PASSWORD          -  Gayatri@123
+
+STUDENT ID        -  SBAP0029533
+STUDENT NAME      -  PEDDAKONDA VIJAYALAKSHMI
+GROUP             -  BCA(General)
+LEARNING TRACK    -  Salesforce - Developer
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/k24o52hdu6c54zzwth
+
+PROJECT NAME      -  crm application for jewel management - (developer)
+ORG USERNAME      -  mahesh31017593@agentforce.com
+PASSWORD          -  Gayatri@123
+
+STUDENT ID        -  SBAP0029477
+STUDENT NAME      -  AKULA HYMAVATHI
+GROUP             -  BCA(General)
+LEARNING TRACK    -  Salesforce - Developer
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/g87ke94h19k8hsmoib
+
+PROJECT NAME      -  crm application for jewel management - (developer)
+ORG USERNAME      - akulahymavathi078977@agentforce.com
+PASSWORD          -  Gayatri@123
