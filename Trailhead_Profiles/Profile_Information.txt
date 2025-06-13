@@ -37,3 +37,12 @@ TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/g87ke94h19k8hsmo
 PROJECT NAME      -  crm application for jewel management - (developer)
 ORG USERNAME      - akulahymavathi078977@agentforce.com
 PASSWORD          -  Gayatri@123
+
+STUDENT ID        -  SBAP0029508
+STUDENT NAME      -  Kole Eswarvani
+GROUP             -  BCA(General)
+LEARNING TRACK    -  Salesforce - Developer
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/qcon44eo39hhwkaeke
+PROJECT NAME      -  crm application for jewel management - (developer)
+ORG USERNAME      - koleeswarvani408@agentforce.com
+PASSWORD          -  Gayatri@123
